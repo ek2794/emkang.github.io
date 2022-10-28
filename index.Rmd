@@ -7,6 +7,21 @@ output:
     theme: cerulean
 ---
 
+Welcome to Elise's website!
+
 
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+A brief introductory landing page
+A page giving your academic and professional experience (i.e. a resume)
+Links in the site navigation for your GitHub account, your email, and other professional networks.
+
+I am currently a pediatric gastroenterology fellow at [Columbia](https://www.pediatrics.columbia.edu/education/fellowship-training/gastroenterology-hepatology-and-nutrition)
+
+You can find me on [linkedin](https://www.linkedin.com/in/elise-kang-77964427/)
+
+I also enjoy writing for [Buoy Health](https://www.buoyhealth.com/writers/elise-kang-md)
+
+
+You can find me on [github](https://github.com/ek2794) as well.
